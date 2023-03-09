@@ -1,0 +1,3 @@
+[submodule "STRM64"]
+	path = STRM64
+	url = git@github.com:thecozies/STRM64.git
